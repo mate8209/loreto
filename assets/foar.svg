@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#fbfaf7"/>
+<text x="60" y="75" font-family="Arial" font-size="38" font-weight="700" fill="#17324d">Matriz FOAR aplicada</text>
+<text x="60" y="115" font-family="Arial" font-size="20" fill="#586575">No quedarse en el déficit: pasar de diagnóstico a aspiraciones y resultados verificables.</text>
+<g font-family="Arial">
+  <rect x="80" y="170" width="500" height="190" rx="20" fill="#fff" stroke="#d8d0c2"/>
+  <text x="115" y="215" font-size="26" font-weight="700" fill="#17324d">Fortalezas</text>
+  <text x="115" y="255" font-size="19" fill="#586575">• Identidad loretana y memoria jesuítico-guaraní</text>
+  <text x="115" y="286" font-size="19" fill="#586575">• Humedales, lagunas y Portal San Antonio</text>
+  <text x="115" y="317" font-size="19" fill="#586575">• Antecedentes técnicos disponibles</text>
+  <rect x="620" y="170" width="500" height="190" rx="20" fill="#fff" stroke="#d8d0c2"/>
+  <text x="655" y="215" font-size="26" font-weight="700" fill="#17324d">Oportunidades</text>
+  <text x="655" y="255" font-size="19" fill="#586575">• Sistema Iberá como plataforma regional</text>
+  <text x="655" y="286" font-size="19" fill="#586575">• UNNE, Comité Iberá y organismos provinciales</text>
+  <text x="655" y="317" font-size="19" fill="#586575">• Demanda por naturaleza, cultura y astroturismo</text>
+  <rect x="80" y="395" width="500" height="190" rx="20" fill="#fff" stroke="#d8d0c2"/>
+  <text x="115" y="440" font-size="26" font-weight="700" fill="#17324d">Aspiraciones</text>
+  <text x="115" y="480" font-size="19" fill="#586575">• Loreto con agenda territorial común</text>
+  <text x="115" y="511" font-size="19" fill="#586575">• Protección ambiental + servicios + desarrollo</text>
+  <text x="115" y="542" font-size="19" fill="#586575">• Participación local sostenida</text>
+  <rect x="620" y="395" width="500" height="190" rx="20" fill="#17324d"/>
+  <text x="655" y="440" font-size="26" font-weight="700" fill="#fff">Resultados</text>
+  <text x="655" y="480" font-size="19" fill="#dbe7e4">• Hoja de ruta validada</text>
+  <text x="655" y="511" font-size="19" fill="#dbe7e4">• Mapa de conflictos y prioridades</text>
+  <text x="655" y="542" font-size="19" fill="#dbe7e4">• Cartera inicial de acciones territoriales</text>
+</g>
+</svg>

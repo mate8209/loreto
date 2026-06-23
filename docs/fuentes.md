@@ -1,21 +1,21 @@
-# Fuentes y base documental
+# Fuentes utilizadas
 
-## Archivos cargados por el usuario
+## Documento base de la consigna
+- Universidad Nacional de Río Cuarto. Doctorado en Desarrollo Territorial. Curso: El ordenamiento territorial como instrumento de política y gestión ambiental. Trabajo Final 2026. Docente: Dra. Vanesa Crissi Aloranti.
 
-- `Trabajo Final 2026.pdf`. Consigna del curso, criterios de evaluación, condiciones de exposición y apartados requeridos.
-- `Codigo_ LORETO_2025-revisado.docx`. Propuesta de Código Urbano Ambiental para Loreto, zonificación, áreas patrimoniales, reservas naturales, áreas no aptas y proyectos de ordenanza ambiental/patrimonial.
-- `Rocio Enriquez_7670981_assignsubmission_file_TPN°8 LORETO.pdf`. Plan Estratégico de Desarrollo Turístico Loreto 2025–2035.
-- `José Facundo Valenzuela_7670980_assignsubmission_file_ LORETO.pdf`. Plan de trabajo turístico para Loreto, área de estudio, destinatarios, objetivos y cronograma.
-- `Nancy Luzmila Romero_7670991_assignsubmission_file_ LORETO.pdf`. Proyecto turístico y diagnóstico de necesidades, potencialidades y actividades.
+## Documentos aportados
+- Propuesta de Código Urbano Ambiental para las localidades del Iberá. Loreto, Corrientes.
+- Plan Estratégico de Desarrollo Turístico Loreto, Corrientes 2025–2035.
+- Trabajos prácticos sobre Loreto, planificación turística y sistema local.
 
-## Fuentes públicas consultadas
+## Fuentes públicas
+- Municipio de Loreto, Corrientes. “Qué hacer en Loreto”.
+- Parque Iberá. Portal San Antonio.
+- Gobierno de Corrientes, Dirección de Estadística y Censos. Población por municipio según Censo 2022.
+- Argentina.gob.ar / Infoleg. Ley Nacional 25.675, Ley General del Ambiente.
 
-- Ministerio de Turismo de Corrientes. Portal San Antonio.
-- Parque Iberá. Portal San Antonio y experiencias de astroturismo.
-- Municipio de Loreto. “Qué hacer en Loreto”.
-- Instituto Provincial de Estadística y Ciencia de Datos de Corrientes. Población por municipio, Censo 2022.
-- Argentina.gob.ar / Infoleg. Ley General del Ambiente N.º 25.675.
-
-## Imágenes incluidas
-
-La presentación utiliza principalmente imágenes extraídas de la base documental cargada por el usuario: mapas de uso del suelo, zonificación, áreas patrimoniales, material de portada y referencias del Código Urbano Ambiental. También se dejaron registradas las fuentes públicas sugeridas para ampliar con fotografías oficiales si se desea sumar material visual local de mayor resolución.
+## Bibliografía conceptual sugerida
+- Bozzano, H. Territorios posibles e inteligencia territorial.
+- Gómez Orea, D. Ordenación territorial.
+- Massiris Cabeza, A. Ordenamiento territorial y desarrollo.
+- Crissi Aloranti, V. Materiales de clase del curso.

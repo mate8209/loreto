@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#f7f3ea"/>
+<text x="60" y="80" font-family="Arial" font-size="38" font-weight="700" fill="#17324d">Sistema territorial de Loreto</text>
+<text x="60" y="118" font-family="Arial" font-size="20" fill="#586575">Componentes solicitados por la consigna, leídos como un sistema de relaciones.</text>
+<g font-family="Arial" font-size="19" fill="#17324d">
+  <rect x="95" y="190" width="300" height="115" rx="18" fill="#fff" stroke="#d8d0c2"/>
+  <text x="125" y="235" font-size="24" font-weight="700">Medio físico</text><text x="125" y="267">humedales, lagunas, riesgos</text>
+  <rect x="450" y="190" width="300" height="115" rx="18" fill="#fff" stroke="#d8d0c2"/>
+  <text x="480" y="235" font-size="24" font-weight="700">Población</text><text x="480" y="267">3.513 hab. / escala local</text>
+  <rect x="805" y="190" width="300" height="115" rx="18" fill="#fff" stroke="#d8d0c2"/>
+  <text x="835" y="235" font-size="24" font-weight="700">Actividades</text><text x="835" y="267">turismo, servicios, producción</text>
+  <rect x="95" y="360" width="300" height="115" rx="18" fill="#fff" stroke="#d8d0c2"/>
+  <text x="125" y="405" font-size="24" font-weight="700">Asentamiento</text><text x="125" y="437">casco, expansión, áreas no aptas</text>
+  <rect x="450" y="360" width="300" height="115" rx="18" fill="#17324d"/>
+  <text x="505" y="405" font-size="25" font-weight="700" fill="#fff">Ordenamiento</text><text x="487" y="437" fill="#dbe7e4">decisión territorial integrada</text>
+  <rect x="805" y="360" width="300" height="115" rx="18" fill="#fff" stroke="#d8d0c2"/>
+  <text x="835" y="405" font-size="24" font-weight="700">Canales</text><text x="835" y="437">rutas, portal, redes, flujos</text>
+  <rect x="273" y="530" width="300" height="95" rx="18" fill="#fff" stroke="#d8d0c2"/>
+  <text x="303" y="568" font-size="23" font-weight="700">Instituciones</text><text x="303" y="598">municipio, UNNE, Comité Iberá</text>
+  <rect x="628" y="530" width="300" height="95" rx="18" fill="#fff" stroke="#d8d0c2"/>
+  <text x="658" y="568" font-size="23" font-weight="700">Marco legal</text><text x="658" y="598">Ley 25.675, CUA, ordenanzas</text>
+</g>
+</svg>

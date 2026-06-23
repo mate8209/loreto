@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#fbfaf7"/>
+<text x="60" y="80" font-family="Arial" font-size="40" font-weight="700" fill="#17324d">Problema territorial a abordar</text>
+<text x="60" y="120" font-family="Arial" font-size="21" fill="#586575">El desafío no es solo turístico: es de integración territorial.</text>
+<g font-family="Arial">
+  <circle cx="360" cy="330" r="150" fill="#7db2be" opacity="0.32" stroke="#2c6f78" stroke-width="4"/>
+  <text x="276" y="312" font-size="27" font-weight="700" fill="#17324d">Humedales</text>
+  <text x="236" y="348" font-size="18" fill="#17324d">fragilidad ambiental</text>
+  <text x="252" y="375" font-size="18" fill="#17324d">riesgos hídricos</text>
+  <circle cx="600" cy="330" r="150" fill="#e6c36a" opacity="0.38" stroke="#a57818" stroke-width="4"/>
+  <text x="530" y="312" font-size="27" font-weight="700" fill="#17324d">Casco urbano</text>
+  <text x="510" y="348" font-size="18" fill="#17324d">servicios básicos</text>
+  <text x="523" y="375" font-size="18" fill="#17324d">conectividad</text>
+  <circle cx="840" cy="330" r="150" fill="#d98b73" opacity="0.35" stroke="#a84c35" stroke-width="4"/>
+  <text x="777" y="312" font-size="27" font-weight="700" fill="#17324d">Portal</text>
+  <text x="738" y="348" font-size="18" fill="#17324d">visitantes y flujos</text>
+  <text x="721" y="375" font-size="18" fill="#17324d">bajo derrame urbano</text>
+  <rect x="408" y="498" width="385" height="88" rx="20" fill="#17324d"/>
+  <text x="456" y="535" font-size="24" font-weight="700" fill="#fff">Proyecto de OT</text>
+  <text x="442" y="565" font-size="18" fill="#dbe7e4">articular ambiente + ciudad + desarrollo</text>
+</g>
+</svg>

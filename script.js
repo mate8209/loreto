@@ -1,1 +1,8 @@
-const slides=[...document.querySelectorAll('.slide')];let i=0;const bar=document.querySelector('.bar');function show(n){i=Math.max(0,Math.min(slides.length-1,n));slides.forEach((s,k)=>s.classList.toggle('active',k===i));document.querySelector('#counter').textContent=`${i+1}/${slides.length}`;bar.style.width=`${((i+1)/slides.length)*100}%`;history.replaceState(null,'',`#${i+1}`)}function next(){show(i+1)}function prev(){show(i-1)}document.addEventListener('keydown',e=>{if(['ArrowRight',' ','PageDown'].includes(e.key)){e.preventDefault();next()}if(['ArrowLeft','PageUp','Backspace'].includes(e.key)){e.preventDefault();prev()}if(e.key==='Home')show(0);if(e.key==='End')show(slides.length-1)});document.querySelector('#next').onclick=next;document.querySelector('#prev').onclick=prev;const h=parseInt(location.hash.replace('#',''),10);show(Number.isFinite(h)?h-1:0);
+const slides=[...document.querySelectorAll('.slide')];
+let i=0;
+const counter=document.getElementById('counter');
+function show(n){slides[i].classList.remove('active');i=(n+slides.length)%slides.length;slides[i].classList.add('active');counter.textContent=`${i+1}/${slides.length}`;}
+document.getElementById('next').onclick=()=>show(i+1);
+document.getElementById('prev').onclick=()=>show(i-1);
+document.addEventListener('keydown',e=>{if(['ArrowRight','PageDown',' '].includes(e.key))show(i+1); if(['ArrowLeft','PageUp','Backspace'].includes(e.key))show(i-1);});
+show(0);

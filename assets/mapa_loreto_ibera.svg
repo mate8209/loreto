@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" fill="#f7f3ea"/>
+  <text x="60" y="70" font-family="Arial" font-size="36" font-weight="700" fill="#17324d">Localización estratégica</text>
+  <text x="60" y="110" font-family="Arial" font-size="19" fill="#586575">Argentina → Corrientes → Departamento San Miguel → Loreto → Iberá</text>
+  <g transform="translate(70,160)">
+    <rect x="0" y="0" width="260" height="390" rx="22" fill="#fff" stroke="#d8d0c2"/>
+    <path d="M125 15 C90 55,80 95,97 143 C72 190,75 240,112 278 C100 320,127 360,165 370 C205 315,200 250,180 205 C205 155,195 85,160 45 C155 25,142 18,125 15z" fill="#d7e7df" stroke="#5f7d74" stroke-width="3"/>
+    <circle cx="158" cy="286" r="9" fill="#ba4a2d"/>
+    <text x="20" y="430" font-family="Arial" font-size="22" font-weight="700" fill="#17324d">Argentina</text>
+    <text x="20" y="460" font-family="Arial" font-size="17" fill="#586575">Provincia de Corrientes</text>
+  </g>
+  <g transform="translate(390,160)">
+    <rect x="0" y="0" width="330" height="390" rx="22" fill="#fff" stroke="#d8d0c2"/>
+    <path d="M130 20 C88 60,70 130,75 180 C52 227,75 290,110 325 C140 360,190 360,220 324 C260 280,265 210,240 160 C230 95,185 50,130 20z" fill="#d4e7f0" stroke="#4b7180" stroke-width="3"/>
+    <ellipse cx="160" cy="195" rx="70" ry="105" fill="#9ed0d8" opacity="0.7"/>
+    <circle cx="145" cy="185" r="10" fill="#ba4a2d"/>
+    <text x="165" y="188" font-family="Arial" font-size="17" font-weight="700" fill="#17324d">Loreto</text>
+    <text x="20" y="430" font-family="Arial" font-size="22" font-weight="700" fill="#17324d">Corrientes</text>
+    <text x="20" y="460" font-family="Arial" font-size="17" fill="#586575">Centro-norte provincial / Iberá</text>
+  </g>
+  <g transform="translate(780,160)">
+    <rect x="0" y="0" width="350" height="390" rx="22" fill="#fff" stroke="#d8d0c2"/>
+    <path d="M40 300 C80 170,130 85,230 60 C300 45,340 110,310 190 C275 285,190 340,95 330 C70 328,50 318,40 300z" fill="#7db2be" opacity="0.75"/>
+    <circle cx="145" cy="188" r="11" fill="#ba4a2d"/>
+    <text x="163" y="193" font-family="Arial" font-size="18" font-weight="700" fill="#17324d">Loreto</text>
+    <path d="M145 188 C190 178,215 175,250 165" stroke="#17324d" stroke-width="4" stroke-dasharray="8 8" fill="none"/>
+    <circle cx="255" cy="164" r="9" fill="#0b7a75"/>
+    <text x="190" y="145" font-family="Arial" font-size="16" fill="#17324d">Portal San Antonio</text>
+    <text x="20" y="430" font-family="Arial" font-size="22" font-weight="700" fill="#17324d">Sistema Iberá</text>
+    <text x="20" y="460" font-family="Arial" font-size="17" fill="#586575">Humedales, turismo y conservación</text>
+  </g>
+  <text x="60" y="635" font-family="Arial" font-size="16" fill="#7b766d">Elaboración propia para exposición doctoral. Base conceptual: Loreto como localidad de borde entre casco urbano, humedales y portal turístico.</text>
+</svg>
